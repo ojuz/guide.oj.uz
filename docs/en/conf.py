@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'oj.uz 도움말'
+project = u'oj.uz documentation'
 copyright = u'2017, 박수찬'
 author = u'박수찬'
 
