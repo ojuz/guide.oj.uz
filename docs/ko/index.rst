@@ -10,6 +10,7 @@ oj.uz 도움말에 오신 것을 환영합니다!
    :maxdepth: 2
    :caption: Contents:
 
+   How to register in a contest
    How to open a contest
 
 
