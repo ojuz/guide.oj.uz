@@ -10,6 +10,7 @@ Welcome to oj.uz's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   How to register in a contest
 
 
 Indices and tables
